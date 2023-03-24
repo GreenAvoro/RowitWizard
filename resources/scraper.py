@@ -38,7 +38,7 @@ for regatta in regattas:
 
 mydb = mysql.connector.connect(
     host="localhost",
-    user="root",
+    user="forge",
     password="gdcCoach12",
     database="rowit_wizard"
 )
